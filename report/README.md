@@ -47,11 +47,11 @@ Google Colabのコードの共有リンクを取得する方法は以下の通�
 
 1. Google Colabの画面右上にある`共有`ボタンをクリック．
 
-<img src="https://github.com/YosukeSugiura/datamining-excercise/blob/report/share_button.png" width="720px">
+<img src="./share_button.png" width="720px">
 
 2. ポップアップウィンドウの`リンクを取得`から`リンクを知っている全員に変更`をクリック．
 
-<img src="https://github.com/YosukeSugiura/datamining-excercise/blob/report/change_permission.png" width="720px">
+<img src="./change_permission.png" width="720px">
 
 4. 'リンクをコピー'ボタンをクリックして共有リンクのURLを取得する
 5. '完了'をクリック．
